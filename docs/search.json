@@ -6,15 +6,15 @@
       "description": "What have you learned?",
       "author": [],
       "contents": "\n\nContents\nAssessment\n\nPhoto by Siora Photography on UnsplashAssessment\nYou can find information about the exam here.\nAdditional information will be made available soon.\n\n\n\n",
-      "last_modified": "2021-03-09T14:17:37+01:00"
+      "last_modified": "2021-03-09T14:24:10+01:00"
     },
     {
       "path": "index.html",
       "title": "KOGPSY",
-      "description": "Welcome to the website for *Kognitionspsychologie II* FS21 ([23263-02](https://vorlesungsverzeichnis.unibas.ch/de/home?id=254176))\n\nInstructor: [Rui Mata](https://psychologie.unibas.ch/de/personen/rui-mata/about-me/), University of Basel\n",
+      "description": "Welcome to the website for *Kognitionspsychologie II* FS21 ([23263-02](https://vorlesungsverzeichnis.unibas.ch/de/home?id=254176))\n\nInstructor: [Rui Mata](https://psychologie.unibas.ch/de/personen/rui-mata/about-me/), University of Basel\n\n**Last updated:** `r format(Sys.time(), \"%a %b %d %X %Y\")`\n",
       "author": [],
       "contents": "\n\nContents\nSession information\nWhat is this course about?\nWhat can you expect to learn?\nHow should you use this website?\nVideo recordings and SWITCHtube\n\nThinking, feeling, willing are simply words we use to describe different ways of using one’s brain! Photo by Jesse Martini on UnsplashSession information\nSessions take place Tuesdays, 10.15-11.45, on Zoom. The link to the Zoom sessions is available on ADAM.\n\n#\nDate\nTopic\nSlides\n1\n02.03.2021\nSession 1: Introduction\npdf\n2\n09.03.2021\nSession 2: What is intelligence?\npdf\n3\n16.03.2021\nSession 3: Intelligence: Nature & Nurture\npdf\n4\n23.03.2021\nSession 4: Space\npdf\n5\n30.03.2021\nSession 5: Number\npdf\n6\n06.04.2021\nSession 6: Language\npdf\n7\n13.04.2021\nSession 7: Facts\npdf\n8\n20.04.2021\nSession 8: Emotion\npdf\n9\n27.04.2021\nSession 9: Motivation\npdf\n10\n04.05.2021\nSession 10: Consciousness\npdf\n11\n11.05.2021\nSession 11: What’s next?\npdf\n12\n18.05.2021\nSession 12: Q&A\npdf\n13\n25.05.2021\nExam\n\n\nWhat is this course about?\nThis course aims to give a broad introduction to central topics in psychological science, with a focus on mechanistic explanantions of cognition, emotion, and motivation.\nWhat can you expect to learn?\nBy completing the course you can expect to…\nlearn about central theories and models in key areas of psychology\nbecome familiarized with common methods used in the psychological sciences\nlearn about examples of applications of psychological science to real-world contexts\nreflect about the need for pluralistic explanations of human behavior\nHow should you use this website?\nThis website is designed to help course participants get an overview of the course and access most course materials (e.g., recommended background readings and videos, additional non-mandatory readings). A number of other resources, however, are available. An FAQ forum is available on ADAM. The portions of the online sessions involving presentation by the instructor will be recorded and made available after each session on SWITCHtube. Information about the exam is available on the Exam tab on this webpage.\nCourse materials, such as readings or suggested preparation exercises, will be made available about one week before each session. Videos of the online sessions and associated slides will be posted after each session.\nVideo recordings and SWITCHtube\nThe online sessions involving presentation by the instructor will be recorded and made available after each session on SWITCHtube. The instrutor will make efforts to ensure student anonymity and that discussion between the instructor and students is not part of the recorded videos (unless desired by the student). All recordings will be deleted at the end of the semester. According to University of Basel’s regulations these recordings are for personal use only and should not be further distributed in any form.\n\n\n\n",
-      "last_modified": "2021-03-09T14:17:38+01:00"
+      "last_modified": "2021-03-09T14:24:11+01:00"
     },
     {
       "path": "session1.html",
@@ -22,7 +22,7 @@
       "description": "What is cognitive psychology?",
       "author": [],
       "contents": "\n\nContents\nRecommended Readings\n\nPhoto by Bill Oxford on UnsplashRecommended Readings\nKrakauer, J. W., Ghazanfar, A. A., Gomez-Marin, A., MacIver, M. A., & Poeppel, D. (2017). Neuroscience needs behavior: Correcting a reductionist bias. Neuron, 93(3), 480–490. http://doi.org/10.1016/j.neuron.2016.12.041\nNesse, R. M. (2013). Tinbergen’s four questions, organized: A response to Bateson and Laland. Trends in Ecology & Evolution, 28(12), 681–682. http://doi.org/10.1016/j.tree.2013.10.008\n\n\n\n",
-      "last_modified": "2021-03-09T14:17:38+01:00"
+      "last_modified": "2021-03-09T14:24:11+01:00"
     },
     {
       "path": "session10.html",
@@ -30,7 +30,7 @@
       "description": "What is consciousness?",
       "author": [],
       "contents": "\n\nContents\nRecommended Readings\n\nPhoto by Andre Mouton on UnsplashRecommended Readings\nDehaene, S., Changeux, J.-P., Naccache, L., Sackur, J., & Sergent, C. (2006). Conscious, preconscious, and subliminal processing: A testable taxonomy. Trends in Cognitive Sciences, 10(5), 204–211. http://doi.org/10.1016/j.tics.2006.03.007\nDehaene, S., Lau, H., & Kouider, S. (2017). What is consciousness, and could machines have it? Science, 358(6362), 486–492. http://doi.org/10.1126/science.aan8871\n\n\n\n",
-      "last_modified": "2021-03-09T14:17:39+01:00"
+      "last_modified": "2021-03-09T14:24:12+01:00"
     },
     {
       "path": "session11.html",
@@ -38,7 +38,7 @@
       "description": "Will we still need cognitive psychology in 2050?",
       "author": [],
       "contents": "\nPhoto by Andy Kelly on Unsplash\n\n\n",
-      "last_modified": "2021-03-09T14:17:40+01:00"
+      "last_modified": "2021-03-09T14:24:12+01:00"
     },
     {
       "path": "session12.html",
@@ -46,7 +46,7 @@
       "description": "Any questions?",
       "author": [],
       "contents": "\nPhoto by Thea M. on Unsplash\n\n\n",
-      "last_modified": "2021-03-09T14:17:40+01:00"
+      "last_modified": "2021-03-09T14:24:13+01:00"
     },
     {
       "path": "session2.html",
@@ -54,7 +54,7 @@
       "description": "Is intelligence whatever intelligence tests measure?  ",
       "author": [],
       "contents": "\n\nContents\nRecommended Readings\n\nPhoto by David Matos on UnsplashRecommended Readings\nBarbey, A. K. (2018). Network neuroscience theory of human intelligence. Trends in Cognitive Sciences, 22(1), 8–20. http://doi.org/10.1016/j.tics.2017.10.001.\nKovacs, K., & Conway, A. R. A. (2016). Process overlap theory: A unified account of the general factor of intelligence. Psychological Inquiry, 27(3), 151–177. http://doi.org/10.1080/1047840X.2016.1153946\n\n\n\n",
-      "last_modified": "2021-03-09T14:17:41+01:00"
+      "last_modified": "2021-03-09T14:24:14+01:00"
     },
     {
       "path": "session3.html",
@@ -62,7 +62,7 @@
       "description": "On genes and environments",
       "author": [],
       "contents": "\n\nContents\nRecommended Reading\n\nPhoto by David Matos on UnsplashRecommended Reading\nTucker-Drob, E. M., Briley, D. A., & Harden, K. P. (2013). Genetic and environmental influences on cognition across development and context. Current Directions in Psychological Science, 22(5), 349–355. http://doi.org/10.1177/0963721413485087\n\n\n\n",
-      "last_modified": "2021-03-09T14:17:42+01:00"
+      "last_modified": "2021-03-09T14:24:14+01:00"
     },
     {
       "path": "session4.html",
@@ -70,7 +70,7 @@
       "description": "Space: The first frontier?!",
       "author": [],
       "contents": "\n\nContents\nRecommended Reading\n\nPhoto by Ruthie on UnsplashRecommended Reading\nBurgess, N. (2008). Spatial cognition and the brain. Annals of the New York Academy of Sciences, 1124(1), 77–97. http://doi.org/10.1196/annals.1440.002\n\n\n\n",
-      "last_modified": "2021-03-09T14:17:42+01:00"
+      "last_modified": "2021-03-09T14:24:15+01:00"
     },
     {
       "path": "session5.html",
@@ -78,7 +78,7 @@
       "description": "There are only 10 types of people in the world: Those who understand binary, and those who don't.",
       "author": [],
       "contents": "\n\nContents\nRecommended Reading\n\nWhen is 10 = 2? Photo by mike hoydich on UnsplashRecommended Reading\nSiemann, J., & Petermann, F. (2018). Evaluation of the Triple Code Model of numerical processing: Reviewing past neuroimaging and clinical findings. Research in Developmental Disabilities, 72, 106–117. http://doi.org/10.1016/j.ridd.2017.11.001\n\n\n\n",
-      "last_modified": "2021-03-09T14:17:43+01:00"
+      "last_modified": "2021-03-09T14:24:16+01:00"
     },
     {
       "path": "session6.html",
@@ -86,7 +86,7 @@
       "description": "Bla, bla, bla!",
       "author": [],
       "contents": "\n\nContents\nRecommended Reading\n\nPhoto by Josh Applegate on UnsplashRecommended Reading\nHickok, G., & Poeppel, D. (2015). Neural basis of speech perception. In M. J. Aminoff, F. Boller, & D. F. Swaab (Eds.), The Human Auditory System (Vol. 129, pp. 149–160). Elsevier. http://doi.org/https://doi.org/10.1016/B978-0-444-62630-1.00008-1\n\n\n\n",
-      "last_modified": "2021-03-09T14:17:43+01:00"
+      "last_modified": "2021-03-09T14:24:16+01:00"
     },
     {
       "path": "session7.html",
@@ -94,7 +94,7 @@
       "description": "Even alternative facts are facts to our brain.",
       "author": [],
       "contents": "\n\nContents\nRecommended Reading\n\nTrump wants YOU to learn about facts: “We love you, you’re very special.” Photo by Darren Halstead on UnsplashRecommended Reading\nRalph, M. A. L., Jefferies, E., Patterson, K., & Rogers, T. T. (2016). The neural and computational bases of semantic cognition. Nature Reviews Neuroscience, 18(1), 42–55. http://doi.org/10.1038/nrn.2016.150\n\n\n\n",
-      "last_modified": "2021-03-09T14:17:44+01:00"
+      "last_modified": "2021-03-09T14:24:17+01:00"
     },
     {
       "path": "session8.html",
@@ -102,7 +102,7 @@
       "description": "How do you feel?",
       "author": [],
       "contents": "\n\nContents\nRecommended Readings\n\nBalloons are often made of plastic, which poses serious environmental concerns - so SAD! Photo by Andreas Weiland on UnsplashRecommended Readings\nBarrett, L. F. (2016). Navigating the science of emotion. In H. L. Meiselman (Ed.), Emotion Measurement (pp. 31–63). Woodhead Publishing. (pp. 31–63). http://doi.org/10.1016/B978-0-08-100508-8.00002-3\nGross, J. J., & Barrett, L.F. (2011). Emotion generation and emotion regulation: One or two depends on your point of view. Emotion Review, 3(1), 8–16. http://doi.org/10.1177/1754073910380974\n\n\n\n",
-      "last_modified": "2021-03-09T14:17:45+01:00"
+      "last_modified": "2021-03-09T14:24:18+01:00"
     },
     {
       "path": "session9.html",
@@ -110,7 +110,7 @@
       "description": "Fitter, happier, more productive!",
       "author": [],
       "contents": "\n\nContents\nRecommended Reading\n\nPhoto by Jordan Whitfield on UnsplashRecommended Reading\nBraver, T. S., Krug, M. K., Chiew, K. S., Kool, W., Westbrook, J. A., Clement, N. J., et al. (2014). Mechanisms of motivation-cognition interaction: Challenges and opportunities. Cognitive, Affective, & Behavioral Neuroscience, 14(2), 443–472. http://doi.org/10.3758/s13415-014-0300-0\n\n\n\n",
-      "last_modified": "2021-03-09T14:17:45+01:00"
+      "last_modified": "2021-03-09T14:24:18+01:00"
     }
   ],
   "collections": []

@@ -1,0 +1,15 @@
+---
+title: "Exam"
+description: |
+  What have you learned?
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+![<span>Photo by <a href="https://unsplash.com/@siora18?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Siora Photography</a> on <a href="https://unsplash.com/s/photos/reading?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>](photos/siora-photography-hgFY1mZY-Y0-unsplash.jpg)
+
+# Assessment
+
+You can find information about the exam [here](https://vorlesungsverzeichnis.unibas.ch/de/home?id=254176) and in the slides of [Session 12](https://github.com/matarui/kogpsy/raw/main/docs/presentations/KOGPSY_session12.pdf).

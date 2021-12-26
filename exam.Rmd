@@ -12,4 +12,4 @@ knitr::opts_chunk$set(echo = FALSE)
 
 # Assessment
 
-You can find information about the exam [here](https://vorlesungsverzeichnis.unibas.ch/de/home?id=254176) and in the slides of [Session 12](https://github.com/matarui/kogpsy/raw/main/docs/presentations/KOGPSY_session12.pdf).
+You can find information about the exam [here](https://vorlesungsverzeichnis.unibas.ch/de/home?id=254176). More information will be made available at the start of the semester. 

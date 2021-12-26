@@ -30,19 +30,20 @@ Sessions take place Tuesdays, 10.15-11.45.
 ::: l-body
 | # | Date     | Topic                         | Slides |
 |---| ---------|-------------------------------|--------|
-| 1 | 02.03.2021 | [Session 1: Introduction](session1.html) | [pdf](https://github.com/matarui/kogpsy/raw/main/docs/presentations/KOGPSY_session1.pdf)|
-| 2 | 09.03.2021 | [Session 2: What is intelligence?](session2.html) | [pdf](https://github.com/matarui/kogpsy/raw/main/docs/presentations/KOGPSY_session2.pdf)|
-| 3 | 16.03.2021 | [Session 3: Intelligence: Nature & Nurture](session3.html) | [pdf](https://github.com/matarui/kogpsy/raw/main/docs/presentations/KOGPSY_session3.pdf)|
-| 4 | 23.03.2021 | [Session 4: Space](session4.html) | [pdf](https://github.com/matarui/kogpsy/raw/main/docs/presentations/KOGPSY_session4.pdf)|
-| 5 | 30.03.2021 | [Session 5: Number](session5.html) | [pdf](https://github.com/matarui/kogpsy/raw/main/docs/presentations/KOGPSY_session5.pdf)|
-| 6 | 06.04.2021 | [Session 6: Language](session6.html) | [pdf](https://github.com/matarui/kogpsy/raw/main/docs/presentations/KOGPSY_session6.pdf)|
-| 7 | 13.04.2021 | [Session 7: Facts](session7.html) | [pdf](https://github.com/matarui/kogpsy/raw/main/docs/presentations/KOGPSY_session7.pdf)|
-| 8 | 20.04.2021 | [Session 8: Emotion](session8.html) | [pdf](https://github.com/matarui/kogpsy/raw/main/docs/presentations/KOGPSY_session8.pdf)|
-| 9 | 27.04.2021 | [Session 9: Motivation](session9.html) | [pdf](https://github.com/matarui/kogpsy/raw/main/docs/presentations/KOGPSY_session9.pdf)|
-|10 | 04.05.2021 | [Session 10: Consciousness](session10.html) | [pdf](https://github.com/matarui/kogpsy/raw/main/docs/presentations/KOGPSY_session10.pdf)|
-|11 | 11.05.2021 | [Session 11: What's next?](session11.html) | [pdf](https://github.com/matarui/kogpsy/raw/main/docs/presentations/KOGPSY_session11.pdf)|
-|12 | 18.05.2021 | [Session 12: Q&A](session12.html) | [pdf](https://github.com/matarui/kogpsy/raw/main/docs/presentations/KOGPSY_session12.pdf)|
-|13 | 25.05.2021 | [Exam](exam.html) | |
+| 1 | 22.02.2022 | [Session 1: Introduction](session1.html) | [pdf](https://github.com/matarui/kogpsy/raw/main/docs/presentations/KOGPSY_session1.pdf)|
+| 2 | 01.03.2022 | [Session 2: What is intelligence?](session2.html) | [pdf](index.html)|
+| 3 | 15.03.2022 | [Session 3: Intelligence: Nature & Nurture](session3.html) | [pdf](index.html)|
+| 4 | 22.03.2022 | [Session 4: Space](session4.html) | [pdf](index.html)|
+| 5 | 29.03.2022 | [Session 5: Number](session5.html) | [pdf](index.html)|
+| 6 | 05.04.2022 | [Session 6: Language](session6.html) | [pdf](index.html)|
+| 7 | 12.04.2022 | [Session 7: Facts](session7.html) | [pdf](index.html)|
+| 8 | 19.04.2022 | [Session 8: Emotion](session8.html) | [pdf](index.html)|
+| 9 | 26.04.2022 | [Session 9: Motivation](session9.html) | [pdf](index.html)|
+|10 | 03.05.2022 | [Session 10: Consciousness](session10.html) | [pdf](index.html)|
+|11 | 10.05.2022 | [Session 11: What's next?](session11.html) | [pdf](index.html)|
+|12 | 17.05.2022 | [Session 12: Q&A](session12.html) | [pdf](index.html)|
+|13 | 24.05.2022 | | |
+|14 | 7.06.2022 | [Exam](exam.html) | |
 :::
 
 # What is this course about?

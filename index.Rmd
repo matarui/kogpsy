@@ -34,7 +34,7 @@ Sessions take place Tuesdays, 10.15-11.45.
 | 2 | 01.03.2022 | [Session 2: What is intelligence?](session2.html) | [pdf](https://github.com/matarui/kogpsy/raw/main/docs/presentations/KPII_session2.pdf)|
 | 3 | 22.03.2022 | [Session 3: Intelligence: Nature & Nurture](session3.html) | [pdf](https://github.com/matarui/kogpsy/raw/main/docs/presentations/KPII_session3.pdf)|
 | 4 | 29.03.2022 | [Session 4: Space](session4.html) | [pdf](https://github.com/matarui/kogpsy/raw/main/docs/presentations/KPII_session4.pdf)|
-| 5 | 05.04.2022 | [Session 5: Number](session5.html) | [pdf](index.html)|
+| 5 | 05.04.2022 | [Session 5: Number](session5.html) | [pdf](https://github.com/matarui/kogpsy/raw/main/docs/presentations/KPII_session5.pdf)|
 | 6 | 12.04.2022 | [Session 6: Language](session6.html) | [pdf](index.html)|
 | 7 | 19.04.2022 | [Session 7: Facts](session7.html) | [pdf](index.html)|
 | 8 | 26.04.2022 | [Session 8: Emotion](session8.html) | [pdf](index.html)|

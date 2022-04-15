@@ -36,7 +36,7 @@ Sessions take place Tuesdays, 10.15-11.45.
 | 4 | 29.03.2022 | [Session 4: Space](session4.html) | [pdf](https://github.com/matarui/kogpsy/raw/main/docs/presentations/KPII_session4.pdf)|
 | 5 | 05.04.2022 | [Session 5: Number](session5.html) | [pdf](https://github.com/matarui/kogpsy/raw/main/docs/presentations/KPII_session5.pdf)|
 | 6 | 12.04.2022 | [Session 6: Language](session6.html) | [pdf](https://github.com/matarui/kogpsy/raw/main/docs/presentations/KPII_session6.pdf)|
-| 7 | 19.04.2022 | [Session 7: Facts](session7.html) | [pdf](index.html)|
+| 7 | 19.04.2022 | [Session 7: Facts](session7.html) | [pdf](https://github.com/matarui/kogpsy/raw/main/docs/presentations/KPII_session7.pdf)|
 | 8 | 26.04.2022 | [Session 8: Emotion](session8.html) | [pdf](index.html)|
 | 9 | 03.05.2022 | [Session 9: Motivation](session9.html) | [pdf](index.html)|
 |10 | 10.05.2022 | [Session 10: Consciousness](session10.html) | [pdf](index.html)|

@@ -64,6 +64,4 @@ By completing the course you can expect to...
 
 # How should you use this website?
 
-This website is designed to help course participants get an overview of the course and access most course materials (e.g., recommended background readings, additional non-mandatory readings). A number of other resources, however, are available. An [FAQ](https://adam.unibas.ch/goto_adam_crs_1230735.html) forum is available on ADAM. 
-
-Course materials, such as readings or suggested preparation exercises, will be made available about one week before each session. Videos of the online sessions and associated slides will be posted **after** each session. 
+This website is designed to help course participants get an overview of the course and access most course materials (e.g., recommended background readings, additional non-mandatory readings). A number of other resources, however, are available. An [FAQ](https://adam.unibas.ch/goto_adam_crs_1230735.html) forum is available on ADAM.

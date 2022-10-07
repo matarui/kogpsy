@@ -1,7 +1,7 @@
 ---
 title: "KOGPSY"
 description: |
-  Welcome to the website for *Kognitionspsychologie II* FS22 ([23263-02](https://vorlesungsverzeichnis.unibas.ch/de/home?id=263194))
+  Welcome to the website for *Kognitionspsychologie II* FS23 ([23263-02](https://vorlesungsverzeichnis.unibas.ch/de/home?id=263194))
   
   Instructor: [Rui Mata](https://psychologie.unibas.ch/de/personen/rui-mata/about-me/), University of Basel
   
@@ -30,19 +30,19 @@ Sessions take place Tuesdays, 10.15-11.45.
 ::: l-body
 | # | Date     | Topic                         | Slides |
 |---| ---------|-------------------------------|--------|
-| 1 | 22.02.2022 | [Session 1: Introduction](session1.html) | [pdf](https://github.com/matarui/kogpsy/raw/main/docs/presentations/KPII_session1.pdf)|
-| 2 | 01.03.2022 | [Session 2: What is intelligence?](session2.html) | [pdf](https://github.com/matarui/kogpsy/raw/main/docs/presentations/KPII_session2.pdf)|
-| 3 | 22.03.2022 | [Session 3: Intelligence: Nature & Nurture](session3.html) | [pdf](https://github.com/matarui/kogpsy/raw/main/docs/presentations/KPII_session3.pdf)|
-| 4 | 29.03.2022 | [Session 4: Space](session4.html) | [pdf](https://github.com/matarui/kogpsy/raw/main/docs/presentations/KPII_session4.pdf)|
-| 5 | 05.04.2022 | [Session 5: Number](session5.html) | [pdf](https://github.com/matarui/kogpsy/raw/main/docs/presentations/KPII_session5.pdf)|
-| 6 | 12.04.2022 | [Session 6: Language](session6.html) | [pdf](https://github.com/matarui/kogpsy/raw/main/docs/presentations/KPII_session6.pdf)|
-| 7 | 19.04.2022 | [Session 7: Facts](session7.html) | [pdf](https://github.com/matarui/kogpsy/raw/main/docs/presentations/KPII_session7.pdf)|
-| 8 | 26.04.2022 | [Session 8: Emotion](session8.html) | [pdf](https://github.com/matarui/kogpsy/raw/main/docs/presentations/KPII_session8.pdf)|
-| 9 | 03.05.2022 | [Session 9: Motivation](session9.html) | [pdf](https://github.com/matarui/kogpsy/raw/main/docs/presentations/KPII_session9.pdf)|
-|10 | 10.05.2022 | [Session 10: Consciousness](session10.html) | [pdf](https://github.com/matarui/kogpsy/raw/main/docs/presentations/KPII_session10.pdf)|
-|11 | 17.05.2022 | [Session 11: What's next?](session11.html) | [pdf](https://github.com/matarui/kogpsy/raw/main/docs/presentations/KPII_session11.pdf)|
-|12 | 24.05.2022 | [Session 12: Q&A](session12.html) | [pdf](https://github.com/matarui/kogpsy/raw/main/docs/presentations/KPII_session12.pdf)|
-|13 | 7.06.2022 | [Exam](exam.html) | |
+| 1 | 21.02.2023 | [Session 1: Introduction](session1.html) | [pdf](https://github.com/matarui/kogpsy/raw/main/docs/presentations/KPII_session1.pdf)|
+| 2 | 07.03.2023 | [Session 2: What is intelligence?](session2.html) | [pdf](https://github.com/matarui/kogpsy/raw/main/docs/presentations/KPII_session2.pdf)|
+| 3 | 14.03.2023 | [Session 3: Intelligence: Nature & Nurture](session3.html) | [pdf](https://github.com/matarui/kogpsy/raw/main/docs/presentations/KPII_session3.pdf)|
+| 4 | 21.03.2023 | [Session 4: Space](session4.html) | [pdf](https://github.com/matarui/kogpsy/raw/main/docs/presentations/KPII_session4.pdf)|
+| 5 | 28.03.2023 | [Session 5: Number](session5.html) | [pdf](https://github.com/matarui/kogpsy/raw/main/docs/presentations/KPII_session5.pdf)|
+| 6 | 11.04.2023 | [Session 6: Language](session6.html) | [pdf](https://github.com/matarui/kogpsy/raw/main/docs/presentations/KPII_session6.pdf)|
+| 7 | 18.04.2023 | [Session 7: Facts](session7.html) | [pdf](https://github.com/matarui/kogpsy/raw/main/docs/presentations/KPII_session7.pdf)|
+| 8 | 25.04.2023 | [Session 8: Emotion](session8.html) | [pdf](https://github.com/matarui/kogpsy/raw/main/docs/presentations/KPII_session8.pdf)|
+| 9 | 02.05.2023 | [Session 9: Motivation](session9.html) | [pdf](https://github.com/matarui/kogpsy/raw/main/docs/presentations/KPII_session9.pdf)|
+|10 | 09.05.2023 | [Session 10: Consciousness](session10.html) | [pdf](https://github.com/matarui/kogpsy/raw/main/docs/presentations/KPII_session10.pdf)|
+|11 | 16.05.2023 | [Session 11: What's next?](session11.html) | [pdf](https://github.com/matarui/kogpsy/raw/main/docs/presentations/KPII_session11.pdf)|
+|12 | 23.05.2023 | [Session 12: Q&A](session12.html) | [pdf](https://github.com/matarui/kogpsy/raw/main/docs/presentations/KPII_session12.pdf)|
+|13 | 06.06.2023 | [Exam](exam.html) | |
 :::
 
 ```{r, include=FALSE}
@@ -64,10 +64,6 @@ By completing the course you can expect to...
 
 # How should you use this website?
 
-This website is designed to help course participants get an overview of the course and access most course materials (e.g., recommended background readings and videos, additional non-mandatory readings). A number of other resources, however, are available. An [FAQ](https://adam.unibas.ch/goto_adam_crs_1230735.html) forum is available on ADAM. Any recordings of the sessions will be made available on [SWITCHtube](https://tube.switch.ch/channels/d4bc1931). Information about the exam is available on the [Exam](exam.html) tab on this webpage.  
+This website is designed to help course participants get an overview of the course and access most course materials (e.g., recommended background readings, additional non-mandatory readings). A number of other resources, however, are available. An [FAQ](https://adam.unibas.ch/goto_adam_crs_1230735.html) forum is available on ADAM. 
 
 Course materials, such as readings or suggested preparation exercises, will be made available about one week before each session. Videos of the online sessions and associated slides will be posted **after** each session. 
-
-# Video recordings and SWITCHtube
-
-Any recordings will be made available after each session on [SWITCHtube](https://tube.switch.ch/channels/d4bc1931). All recordings will be deleted at the end of the semester. According to University of Basel's [regulations](https://www.unibas.ch/dam/jcr:9e482656-e333-42ec-bbd3-4639dedd3dc7/R_Ton-Bildaufnahmen_00.pdf) these **recordings** are for **personal use** only and should **not be further distributed** in any form.  

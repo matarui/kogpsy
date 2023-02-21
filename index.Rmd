@@ -5,7 +5,7 @@ description: |
   
   Instructor: [Rui Mata](https://psychologie.unibas.ch/de/personen/rui-mata/about-me/), University of Basel
   
-  **Last updated:** `r format(Sys.time(), "%a %b %d %X %Y")`
+  **WEBSITE UNDER CONSTRUCTION:** Last updated `r format(Sys.time(), "%a %b %d %X %Y")`
   
 site: distill::distill_website
 ---

@@ -6,7 +6,7 @@
       "description": "What have you learned?",
       "author": [],
       "contents": "\n\nContents\nAssessment\n\nPhoto by Siora Photography on UnsplashAssessment\nYou can find information about the exam here. More information will be made available at the start of the semester.\n\n\n\n",
-      "last_modified": "2023-04-11T09:36:23+02:00"
+      "last_modified": "2023-05-16T10:00:08+02:00"
     },
     {
       "path": "index.html",
@@ -14,7 +14,7 @@
       "description": "Welcome to the website for *Kognitionspsychologie II* FS23 ([23263-02](https://vorlesungsverzeichnis.unibas.ch/de/home?id=263194))\n\nInstructor: [Rui Mata](https://psychologie.unibas.ch/de/personen/rui-mata/about-me/), University of Basel\n\n**WEBSITE UNDER CONSTRUCTION:** Last updated `r format(Sys.time(), \"%a %b %d %X %Y\")`\n",
       "author": [],
       "contents": "\n\nContents\nSession information\nWhat is this course about?\nWhat can you expect to learn?\nHow should you use this website?\n\nThinking, feeling, willing are simply words we use to describe different ways of using one’s brain! Photo by Jesse Martini on UnsplashSession information\nSessions take place Tuesdays, 10.15-11.45.\n\n#\nDate\nTopic\nSlides\n1\n21.02.2023\nSession 1: Introduction\npdf\n2\n07.03.2023\nSession 2: What is intelligence?\npdf\n3\n14.03.2023\nSession 3: Intelligence: Nature & Nurture\npdf\n4\n21.03.2023\nSession 4: Space\npdf\n5\n28.03.2023\nSession 5: Number\npdf\n6\n11.04.2023\nSession 6: Language\npdf\n7\n18.04.2023\nSession 7: Facts\npdf\n8\n25.04.2023\nSession 8: Emotion\npdf\n9\n02.05.2023\nSession 9: Motivation\npdf\n10\n09.05.2023\nSession 10: Consciousness\npdf\n11\n16.05.2023\nSession 11: What’s next?\npdf\n12\n23.05.2023\nSession 12: Q&A\npdf\n13\n06.06.2023\nExam\n\n\nWhat is this course about?\nThis course aims to give a broad introduction to central topics in psychological science, with a focus on mechanistic explanations of cognition, emotion, and motivation.\nWhat can you expect to learn?\nBy completing the course you can expect to…\nlearn about central theories and models in key areas of psychology\nbecome familiarized with common methods used in the psychological sciences\nlearn about examples of applications of psychological science to real-world contexts\nreflect about the need for pluralistic explanations of human behavior\nHow should you use this website?\nThis website is designed to help course participants get an overview of the course and access most course materials (e.g., recommended background readings, additional non-mandatory readings). A number of other resources, however, are available. An FAQ forum is available on ADAM.\n\n\n\n",
-      "last_modified": "2023-05-03T08:37:10+02:00"
+      "last_modified": "2023-05-16T10:00:09+02:00"
     },
     {
       "path": "session1.html",
@@ -22,23 +22,23 @@
       "description": "What is cognitive psychology?",
       "author": [],
       "contents": "\n\nContents\nSession Slides\nRecommended Readings\n\n\nPhoto by Bill Oxford on UnsplashSession Slides\nIntroductionRecommended Readings\nKrakauer, J. W., Ghazanfar, A. A., Gomez-Marin, A., MacIver, M. A., & Poeppel, D. (2017). Neuroscience needs behavior: Correcting a reductionist bias. Neuron, 93(3), 480–490. http://doi.org/10.1016/j.neuron.2016.12.041\nNesse, R. M. (2013). Tinbergen’s four questions, organized: A response to Bateson and Laland. Trends in Ecology & Evolution, 28(12), 681–682. http://doi.org/10.1016/j.tree.2013.10.008\n\n\n\n",
-      "last_modified": "2023-04-11T09:36:23+02:00"
+      "last_modified": "2023-05-16T10:00:09+02:00"
     },
     {
       "path": "session10.html",
       "title": "Session 10: Consciousness",
       "description": "What is consciousness?",
       "author": [],
-      "contents": "\n\nContents\nRecommended Readings\nSplit brain experiments\n\nPhoto by Andre Mouton on UnsplashRecommended Readings\nDehaene, S., Changeux, J.-P., Naccache, L., Sackur, J., & Sergent, C. (2006). Conscious, preconscious, and subliminal processing: A testable taxonomy. Trends in Cognitive Sciences, 10(5), 204–211. http://doi.org/10.1016/j.tics.2006.03.007\nDehaene, S., Lau, H., & Kouider, S. (2017). What is consciousness, and could machines have it? Science, 358(6362), 486–492. http://doi.org/10.1126/science.aan8871\nSplit brain experiments\nWatch a video that demonstrates the type of experiments used with split brain patients discussed in this session.\n\n\n\n\n\n",
-      "last_modified": "2023-04-11T09:36:24+02:00"
+      "contents": "\n\nContents\nSession Slides\nRecommended Readings\nSplit brain experiments\n\n\nPhoto by Andre Mouton on UnsplashSession Slides\nConsciousnessRecommended Readings\nDehaene, S., Changeux, J.-P., Naccache, L., Sackur, J., & Sergent, C. (2006). Conscious, preconscious, and subliminal processing: A testable taxonomy. Trends in Cognitive Sciences, 10(5), 204–211. http://doi.org/10.1016/j.tics.2006.03.007\nDehaene, S., Lau, H., & Kouider, S. (2017). What is consciousness, and could machines have it? Science, 358(6362), 486–492. http://doi.org/10.1126/science.aan8871\nSplit brain experiments\nWatch a video that demonstrates the type of experiments used with split brain patients discussed in this session.\n\n\n\n\n\n",
+      "last_modified": "2023-05-16T10:00:09+02:00"
     },
     {
       "path": "session11.html",
       "title": "Session 11: What's next?",
       "description": "Will we still need cognitive psychology in 2050?",
       "author": [],
-      "contents": "\n\nContents\nHere are a few questions about 2050! What do you think?\n\nPhoto by Andy Kelly on UnsplashHere are a few questions about 2050! What do you think?\nWill we still need pluralistic explanations?\nWill our models of intelligence involve g? And, if so, as a reflective or a formative factor?\nWill we think of the mind as a collection of modules?\nWill we make a distinction between cognition and emotion?\nWill machines have consciousness?\nWill behavioral research still be needed?\n\n\n\n",
-      "last_modified": "2023-04-11T09:36:24+02:00"
+      "contents": "\n\nContents\nSession Slides\nHere are a few questions about 2050! What do you think?\n\n\nPhoto by Andy Kelly on UnsplashSession Slides\nWhat’s next?Here are a few questions about 2050! What do you think?\nWill we still need pluralistic explanations?\nWill our models of intelligence involve g? And, if so, as a reflective or a formative factor?\nWill we think of the mind as a collection of modules?\nWill we make a distinction between cognition and emotion?\nWill machines have consciousness?\nWill behavioral research still be needed?\n\n\n\n",
+      "last_modified": "2023-05-16T10:00:10+02:00"
     },
     {
       "path": "session12.html",
@@ -46,7 +46,7 @@
       "description": "Any questions?",
       "author": [],
       "contents": "\nPhoto by Thea M. on Unsplash\n\n\n",
-      "last_modified": "2023-04-11T09:36:24+02:00"
+      "last_modified": "2023-05-16T10:00:10+02:00"
     },
     {
       "path": "session2.html",
@@ -54,7 +54,7 @@
       "description": "Is intelligence whatever intelligence tests measure?  ",
       "author": [],
       "contents": "\n\nContents\nSession Slides\nRecommended Readings\n\n\nPhoto by David Matos on UnsplashSession Slides\nWhat is intelligence?Recommended Readings\nBarbey, A. K. (2018). Network neuroscience theory of human intelligence. Trends in Cognitive Sciences, 22(1), 8–20. http://doi.org/10.1016/j.tics.2017.10.001.\nKovacs, K., & Conway, A. R. A. (2016). Process overlap theory: A unified account of the general factor of intelligence. Psychological Inquiry, 27(3), 151–177. http://doi.org/10.1080/1047840X.2016.1153946\n\n\n\n",
-      "last_modified": "2023-04-11T09:36:25+02:00"
+      "last_modified": "2023-05-16T10:00:10+02:00"
     },
     {
       "path": "session3.html",
@@ -62,7 +62,7 @@
       "description": "On genes and environments",
       "author": [],
       "contents": "\n\nContents\nSession Slides\nRecommended Reading\n\n\nPhoto by David Matos on UnsplashSession Slides\nIntelligence: Nature and NurtureRecommended Reading\nTucker-Drob, E. M., Briley, D. A., & Harden, K. P. (2013). Genetic and environmental influences on cognition across development and context. Current Directions in Psychological Science, 22(5), 349–355. http://doi.org/10.1177/0963721413485087\n\n\n\n",
-      "last_modified": "2023-04-11T09:36:25+02:00"
+      "last_modified": "2023-05-16T10:00:11+02:00"
     },
     {
       "path": "session4.html",
@@ -70,7 +70,7 @@
       "description": "Space: The first frontier?!",
       "author": [],
       "contents": "\n\nContents\nSession Slides\nRecommended Reading\n\n\nPhoto by Ruthie on UnsplashSession Slides\nSpatial CognitionRecommended Reading\nBurgess, N. (2008). Spatial cognition and the brain. Annals of the New York Academy of Sciences, 1124(1), 77–97. http://doi.org/10.1196/annals.1440.002\n\n\n\n",
-      "last_modified": "2023-04-11T09:36:25+02:00"
+      "last_modified": "2023-05-16T10:00:11+02:00"
     },
     {
       "path": "session5.html",
@@ -78,7 +78,7 @@
       "description": "There are only 10 types of people in the world: Those who understand binary, and those who don't.",
       "author": [],
       "contents": "\n\nContents\nSession Slides\nRecommended Reading\n\n\nWhen is 10 = 2? Photo by mike hoydich on UnsplashSession Slides\nNumerical CognitionRecommended Reading\nSiemann, J., & Petermann, F. (2018). Evaluation of the Triple Code Model of numerical processing: Reviewing past neuroimaging and clinical findings. Research in Developmental Disabilities, 72, 106–117. http://doi.org/10.1016/j.ridd.2017.11.001\n\n\n\n",
-      "last_modified": "2023-04-11T09:36:26+02:00"
+      "last_modified": "2023-05-16T10:00:11+02:00"
     },
     {
       "path": "session6.html",
@@ -86,7 +86,7 @@
       "description": "Bla, bla, bla!",
       "author": [],
       "contents": "\n\nContents\nSession Slides\nRecommended Reading\nAdditional viewing: The lingustic genious of babies\nAdditional reading: Variability and consistency in language learning\n\n\nA phoneme away: “hop” and “pop”! Photo by Josh Applegate on UnsplashSession Slides\nLanguageRecommended Reading\nHickok, G., & Poeppel, D. (2015). Neural basis of speech perception. In M. J. Aminoff, F. Boller, & D. F. Swaab (Eds.), The Human Auditory System (Vol. 129, pp. 149–160). Elsevier. http://doi.org/https://doi.org/10.1016/B978-0-444-62630-1.00008-1\nAdditional viewing: The lingustic genious of babies\nIt may be helpful to learn more about the research done on infants and their language abilities. Check out Patricia Kuhl’s talk “The linguistic genius of babies” for an introduction.\n\n\nAdditional reading: Variability and consistency in language learning\nResearch on cross-cultural variability and consistency is hot on the scientific agenda of psycholinguistics today. Check out the introduction of the Wordbank project (Frank, Braginsky, Yurovsky, & Marchman, 2021) for an overview of current work aiming to describe variability and consistency in language learning.\n\n\n\n",
-      "last_modified": "2023-04-11T09:42:35+02:00"
+      "last_modified": "2023-05-16T10:00:12+02:00"
     },
     {
       "path": "session7.html",
@@ -94,7 +94,7 @@
       "description": "Even alternative facts are facts to our brain.",
       "author": [],
       "contents": "\n\nContents\nSession Slides\nRecommended Reading\n\n\nTrump wants YOU to learn about facts: “We love you, you’re very special.” Photo by Darren Halstead on UnsplashSession Slides\nFactsRecommended Reading\nRalph, M. A. L., Jefferies, E., Patterson, K., & Rogers, T. T. (2016). The neural and computational bases of semantic cognition. Nature Reviews Neuroscience, 18(1), 42–55. http://doi.org/10.1038/nrn.2016.150\n\n\n\n",
-      "last_modified": "2023-04-18T14:05:33+02:00"
+      "last_modified": "2023-05-16T10:00:12+02:00"
     },
     {
       "path": "session8.html",
@@ -102,7 +102,7 @@
       "description": "How do you feel?",
       "author": [],
       "contents": "\n\nContents\nSession Slides\nRecommended Readings\n\n\nBalloons are often made of plastic, which poses serious environmental concerns - so SAD! Photo by Andreas Weiland on UnsplashSession Slides\nEmotionRecommended Readings\nBarrett, L. F. (2016). Navigating the science of emotion. In H. L. Meiselman (Ed.), Emotion Measurement (pp. 31–63). Woodhead Publishing. (pp. 31–63). http://doi.org/10.1016/B978-0-08-100508-8.00002-3\nGross, J. J., & Barrett, L.F. (2011). Emotion generation and emotion regulation: One or two depends on your point of view. Emotion Review, 3(1), 8–16. http://doi.org/10.1177/1754073910380974\n\n\n\n",
-      "last_modified": "2023-04-26T07:05:19+02:00"
+      "last_modified": "2023-05-16T10:00:12+02:00"
     },
     {
       "path": "session9.html",
@@ -110,7 +110,7 @@
       "description": "Fitter, happier, more productive!",
       "author": [],
       "contents": "\n\nContents\nSession Slides\nRecommended Reading\n\n\nPhoto by Jordan Whitfield on UnsplashSession Slides\nMotivationRecommended Reading\nBraver, T. S., Krug, M. K., Chiew, K. S., Kool, W., Westbrook, J. A., Clement, N. J., et al. (2014). Mechanisms of motivation-cognition interaction: Challenges and opportunities. Cognitive, Affective, & Behavioral Neuroscience, 14(2), 443–472. http://doi.org/10.3758/s13415-014-0300-0\n\n\n\n",
-      "last_modified": "2023-05-03T08:36:29+02:00"
+      "last_modified": "2023-05-16T10:00:13+02:00"
     }
   ],
   "collections": []

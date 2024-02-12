@@ -51,17 +51,17 @@ Sessions take place Tuesdays, 10.15-11.45, Biozentrum, Maurice E. Müller Saal U
 
 # What is this course about?
 
-This course aims to give a broad introduction to central topics in psychological science, with a focus on mechanistic explanations of cognition, emotion, and motivation. 
+This course aims to give a broad introduction to central topics in psychology, with a focus on mechanistic explanations of cognition, emotion, and motivation. 
 
 # What can you expect to learn?
 
 By completing the course you can expect to...
 
 - learn about central theories and models in key areas of psychology
-- become familiarized with common methods used in the psychological sciences
-- learn about examples of applications of psychological science to real-world contexts
-- reflect about the need for pluralistic explanations of human behavior
+- become familiarized with common methods used in psychology
+- learn about examples of applications of psychology to real-world contexts
+- reflect about the need for pluralistic explanations in psychology
 
 # How should you use this website?
 
-This website is designed to help course participants get an overview of the course and the course materials (e.g., recommended readings). A [FAQ](https://adam.unibas.ch/goto_adam_crs_1687450.html) forum is available on ADAM. 
+This website is designed to help course participants get an overview of the course and the course materials (e.g., slides, recommended readings). A [FAQ](https://adam.unibas.ch/goto_adam_crs_1687450.html) forum is available on ADAM. 

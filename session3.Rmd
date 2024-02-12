@@ -1,19 +1,19 @@
 ---
-title: "Session 3: Intelligence: Nature & Nurture"
+title: "Session 3: Spatial cognition"
 description: |
-  On genes and environments
+  Space: The first frontier?!
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-![<span>Photo by <a href="https://unsplash.com/@davidmatos?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">David Matos</a> on <a href="https://unsplash.com/s/photos/brain?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>](photos/david-matos-xtLIgpytpck-unsplash.jpg)
+![<span>Photo by <a href="https://unsplash.com/@rrruthie?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Ruthie</a> on <a href="https://unsplash.com/s/photos/map?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>](photos/ruthie-a6mfMjCFkII-unsplash.jpg)
 
 ## Session Slides 
 
-![Intelligence: Nature and Nurture](presentations/KPII_session3.pdf){width=700px height=500px}
+![Spatial Cognition](presentations/KPII_session3.pdf){width=700px height=500px}
 
 ### Recommended Reading
 
-Tucker-Drob, E. M., Briley, D. A., & Harden, K. P. (2013). Genetic and environmental influences on cognition across development and context. *Current Directions in Psychological Science, 22*(5), 349–355. [http://doi.org/10.1177/0963721413485087](https://github.com/matarui/kogpsy/raw/main/docs/literature/TuckerDrob_2013_CDiPS.pdf)
+Burgess, N. (2008). Spatial cognition and the brain. *Annals of the New York Academy of Sciences, 1124*(1), 77–97. [http://doi.org/10.1196/annals.1440.002](https://github.com/matarui/kogpsy/raw/main/docs/literature/Burgess_2008_ANYAS.pdf)

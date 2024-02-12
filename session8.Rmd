@@ -1,21 +1,24 @@
 ---
-title: "Session 8: Emotion"
+title: "Session 8: Language"
 description: |
-  How do you feel?
+ Bla, bla, bla!
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-![Balloons are often made of plastic, which poses serious environmental concerns - so SAD! <span>Photo by <a href="https://unsplash.com/@aweiland?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Andreas Weiland</a> on <a href="https://unsplash.com/s/photos/happy?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>](photos/andreas-weiland-TMpqNhMunQY-unsplash.jpg)
+
+![A phoneme away: "hop" and "pop"! <span>Photo by <a href="https://unsplash.com/@joshapplegate?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Josh Applegate</a> on <a href="https://unsplash.com/s/photos/reading?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
+](photos/josh-applegate-p_KJvKVsH14-unsplash.jpg)
+
 
 ## Session Slides 
 
-![Emotion](presentations/KPII_session8.pdf){width=700px height=500px}
+![Language](presentations/KPII_session8.pdf){width=700px height=500px}
 
-### Recommended Readings
+### Recommended Reading
 
-Barrett, L. F. (2016). Navigating the science of emotion. In H. L. Meiselman (Ed.), *Emotion Measurement* (pp. 31–63). Woodhead Publishing. (pp. 31–63).  [http://doi.org/10.1016/B978-0-08-100508-8.00002-3](https://github.com/matarui/kogpsy/raw/main/docs/literature/Barrett_2016_EM.pdf)
+Hickok, G., & Poeppel, D. (2015). Neural basis of speech perception. In M. J. Aminoff, F. Boller, & D. F. Swaab (Eds.), *The Human Auditory System* (Vol. 129, pp. 149–160). Elsevier. [http://doi.org/https://doi.org/10.1016/B978-0-444-62630-1.00008-1](https://github.com/matarui/kogpsy/raw/main/docs/literature/Hickok_2015_HAS.pdf)
 
-Gross, J. J., & Barrett, L.F. (2011). Emotion generation and emotion regulation: One or two depends on your point of view. *Emotion Review, 3*(1), 8–16. [http://doi.org/10.1177/1754073910380974](https://github.com/matarui/kogpsy/raw/main/docs/literature/Gross_2011_EmotionReview.pdf)
+

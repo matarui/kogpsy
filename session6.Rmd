@@ -1,34 +1,19 @@
 ---
-title: "Session 6: Language"
+title: "Session 6: Social cognition"
 description: |
- Bla, bla, bla!
+  No man is an island
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-
-![A phoneme away: "hop" and "pop"! <span>Photo by <a href="https://unsplash.com/@joshapplegate?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Josh Applegate</a> on <a href="https://unsplash.com/s/photos/reading?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
-](photos/josh-applegate-p_KJvKVsH14-unsplash.jpg)
-
+![<span>Photo by <a href="https://unsplash.com/@plhnk?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Paul Hanaoka</a> on <a href="https://unsplash.com/photos/woman-carrying-baby-in-striped-shirt-a104tlUezug?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a></span>](photos/paul-hanaoka-a104tlUezug-unsplash.jpg)
 
 ## Session Slides 
 
-![Language](presentations/KPII_session6.pdf){width=700px height=500px}
+![Social cognition](presentations/KPII_session6.pdf){width=700px height=500px}
 
 ### Recommended Reading
 
-Hickok, G., & Poeppel, D. (2015). Neural basis of speech perception. In M. J. Aminoff, F. Boller, & D. F. Swaab (Eds.), *The Human Auditory System* (Vol. 129, pp. 149–160). Elsevier. [http://doi.org/https://doi.org/10.1016/B978-0-444-62630-1.00008-1](https://github.com/matarui/kogpsy/raw/main/docs/literature/Hickok_2015_HAS.pdf)
-
-### Additional viewing: The lingustic genious of babies
-
-It may be helpful to learn more about the research done on infants and their language abilities. Check out Patricia Kuhl's talk "The linguistic genius of babies" for an introduction. 
-
-<iframe width="560" height="515" src="https://www.youtube.com/embed/G2XBIkHW954" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-### Additional reading: Variability and consistency in language learning
-
-Research on cross-cultural variability and consistency is hot on the scientific agenda of psycholinguistics today. Check out the introduction of the [Wordbank](https://wordbank-book.stanford.edu/intro-theory.html) project (Frank, Braginsky, Yurovsky, & Marchman, 2021) for an overview of current work aiming to describe variability and consistency in language learning. 
-
-
+To be determined

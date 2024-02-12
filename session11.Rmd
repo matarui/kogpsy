@@ -18,7 +18,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 - Will we still need pluralistic explanations?
 
-- Will our models of intelligence involve *g*? And, if so, as a reflective or a formative factor?
+- Will our models of intelligence involve *g*? 
 
 - Will we think of the mind as a collection of modules?
 

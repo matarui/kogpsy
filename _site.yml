@@ -16,19 +16,19 @@ navbar:
         href: session1.html
       - text: "Session 2: What is intelligence?"
         href: session2.html
-      - text: "Session 3: Intelligence: Nature & Nurture"
+      - text: "Session 3: Spatial cognition"
         href: session3.html
-      - text: "Session 4: Space"
+      - text: "Session 4: Numerical cognition"
         href: session4.html
-      - text: "Session 5: Number"
+      - text: "Session 5: Emotion"
         href: session5.html
-      - text: "Session 6: Language"
+      - text: "Session 6: Social cognition"
         href: session6.html
-      - text: "Session 7: Facts"
+      - text: "Session 7: Motivation"
         href: session7.html
-      - text: "Session 8: Emotion"
+      - text: "Session 8: Language"
         href: session8.html
-      - text: "Session 9: Motivation"
+      - text: "Session 9: Knowing"
         href: session9.html
       - text: "Session 10: Consciousness"
         href: session10.html

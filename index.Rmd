@@ -64,4 +64,4 @@ By completing the course you can expect to...
 
 # How should you use this website?
 
-This website is designed to help course participants get an overview of the course and the course materials (e.g., slides, recommended readings). A [FAQ](https://adam.unibas.ch/goto_adam_crs_1687450.html) forum is available on ADAM. 
+This website is designed to help course participants get an overview of the course and the course materials (e.g., slides, recommended readings). Recommended readings cover central topics discussed in each session and, therefore, they represent a central resource for a thorough preparation for the exam. A [FAQ](https://adam.unibas.ch/goto_adam_crs_1687450.html) forum is available on ADAM. 
